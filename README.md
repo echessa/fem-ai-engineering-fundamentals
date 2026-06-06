@@ -1,5 +1,7 @@
 # AI Engineering Fundamentals
 
+> Code for Frontend Masters [AI Engineering Fundamentals](https://frontendmasters.com/courses/ai-engineering/) course.
+
 A hands-on workshop where you build an agentic diagram design tool, then learn to evaluate and improve it using professional AI engineering practices.
 
 You build a Cloudflare Workers agent that controls an Excalidraw canvas through tool calls. Then you measure it with evals, and across the rest of the course you systematically improve it (context engineering, better tools, RAG, generative UI, human-in-the-loop, planning, data flywheel) and watch the eval scores move.
